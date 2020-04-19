@@ -248,9 +248,13 @@ export default {
         width: 140px;
         height: 140px;
         margin-top: 15px;
+        border: 1px solid turquoise;
+
     }
     .card{
       margin-top: 30px;
+      border: 1px solid turquoise;
+
     }
     .btn{
       border:1px solid turquoise;
